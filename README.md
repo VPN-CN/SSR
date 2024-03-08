@@ -28,22 +28,22 @@
 ### 机场相关娱乐服务推荐
 
 
-[![](https://52nav.github.io/images/blog/wildcard-banner.gif)](https://bewildcard.com/i/AILOVE)
 
 
-[🏝️ 奈飞账号等流媒体合租购买 🎥 奈飞账号合租购买指南](https://www.2chuhai.com/recommend/netflix-account/)
+
+[🏝️ 奈飞账号等流媒体合租购买 🎥 奈飞账号合租购买指南](https://ihaoke.vip/metshop-netflix/)
 
 ---
 
-## 觅云(MeCloud)
+## 蓝帆云(LfCloud)
 
-🇸🇬 新加坡团队，5 年+运营。<code>免费体验</code>5G 流量。
+🇸🇬 新加坡团队，5 年+运营。月付9.9元起,超高性价比。
 
-全中转+IPLC/IEPL 专线,无直连。<code>新用下单立减 9.9</code>。
+BGP全中转+IPLC/IEPL 专线,无直连。
 
-官网: [注册免费体验](https://www.miyun.la/?code=s95atg&lang=zh)
+官网: [点击注册](https://go.51tz.cc/lanfan)
 
-## 可乐云
+## 奈思云(NiceCloud)
 
 500GB 流量-免费用 3 天。付费最低 20/月/350G 流量。
 
