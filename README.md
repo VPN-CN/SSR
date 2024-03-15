@@ -34,113 +34,101 @@
 [🏝️ 奈飞账号等流媒体合租购买 🎥 奈飞账号合租购买指南](https://ihaoke.vip/metshop-netflix/)
 
 ---
+## 疾风云(JFCloud)
 
-## 蓝帆云(LfCloud)
+英国团队，稳定运营2年+。
 
-🇸🇬 新加坡团队，5 年+运营。月付9.9元起,超高性价比。
+隧道全中转+IPLC企业专线，稳定抗封锁。
 
-BGP全中转+IPLC/IEPL 专线,无直连。
+流媒体解锁，支持ChatGPT，大带宽不卡顿。
 
-官网: [点击注册](https://go.51tz.cc/lanfan)
+**基础月付9.9每天只需0.33元，不满意24小时可退款**。
+
+官网: [点击注册](https://go.51tz.cc/jfcloud)
 
 ## 奈思云(NiceCloud)
 
-500GB 流量-免费用 3 天。付费最低 20/月/350G 流量。
+全中转SS协议，落地多超稳定。
 
-官网：[点我进入](https://colacloud.net/index.php#/register?code=StdFoxdl)
+支持全平台解锁，不限宽带速率。
 
-## 小飞象
+基础套餐 12/月，**年付赠送ChatGPT账号** 。
 
+官网：[点击注册](https://go.51tz.cc/nicecloud)
 
-20G流量免费试用24小时。基础最低月付套餐：18 元/200G
+## 速云梯(Suyunti)
 
-[小飞象官网注册](https://xfeie.top/#/register?code=AOvhaNQK)
+境外团队，**老牌机场运营5年+**。
 
-## 奶茶 Cloud
+内网隧道中转、企业级IPLC专线。
 
-自研隧道，全部中转或专线，流媒体解锁。9 元包月 2000G。
+基础最低月付套餐：19元，支持退款。
 
-官网：[点我进入](https://naichayun.net/#/register?code=gm1kORHc)
+官网：[点击注册](https://go.51tz.cc/sycloud)
 
-## 放心云
+## 肥猫云 Fatcat-Cloud
 
-5G 流量+免费 3 天，付费最低 13.9/月/100G 流量
+SS协议IEPL全专线，流媒体全解锁。
 
-官网：[点我进入](https://fxyjs.fun/#/register?code=19l6Lltq)
+不限速，**不限客户端数量**。
 
-## 百变小樱
+包月餐20/月起，年付肥猫小包更低 。
 
-10 G 流量+免费 1 天。每日签到可免费用签到流量。
+官网：[点击注册](https://go.51tz.cc/fatcat)
 
-官网: [点我进入](https://bbxy.shop/auth/register?code=28Vj)
+## 苏打云 Sodacloud
 
-## 大迅云
+全中转BGP隧道加速，不限时不限速率。
 
-2G 流量+免费 7 天。拥有美国、香港、日本、韩国、台湾、德国等地区节点。
+支持流媒体解锁，支持ChatGPT+Tiktok。
 
-官网：[点我进入](https://daxun.club/#/register?code=wERl5qKd)
+包月 50/月起，**按流量计费永久有效**
 
-## 可可云
+官网：[点击注册](https://go.51tz.cc/sodacloud)
 
-4 小时最高等级试用 付费最低 19.90/月/60G 流量
+## Bitznet
 
-官网：[点我进入](https://vip.cocloud.cc/auth/register?code=Jf6f)
+广东落地 IEPL 内网专线抗封锁。
 
-## Fastlink
+支持流媒体解锁，**不限设备数**。
 
-最低 20/月/100G 流量。 0.01 元限速 10M 流量 5G 体验 3 天。
+三月起购基础餐每月最低23/月。
 
-官网：[点我进入](https://v02.fl-aff.com/auth/register?code=ZJXa)
+官网: [点击注册](https://cn.51tz.cc/bitznet)
+
+## 蓝帆云(LfCloud)
+
+🇸🇬 新加坡团队，5 年+运营。月付 10 元起,超高性价比。
+
+BGP全中转+IPLC/IEPL 专线,无直连。
+
+**签到领流量，支持不满意退款**。
+
+官网: [点击注册](https://go.51tz.cc/lanfan)
+
+## Wgetcloud
+
+拥有美国、香港、日本、韩国、台湾、德国等地区节点。
+
+基础套餐 49/月。
+
+官网：[点击注册](https://go.51tz.cc/wget)
+
+## Sufshark VPN
+
+全球知名VPN，荷兰公司。
+
+匿名性强，大陆地区连接速度稍差点。
+
+官网：[点击注册](https://go.51tz.cc/surfshark)
 
 ## DuangCloud
 
 最低 20/月-50GB 流量，运营 2 年+
 
-官网: [点我进入](https://portal.duangcloud.xyz/#/register?code=okwCEYpw)
-
-## 闪电猫
-
-SS 协议 最低 100G 流量/20 元/月
-
-官网: [点我进入](https://speedcat-aff.com/auth/register?code=u0HG)
+官网: [点击注册](https://go.51tz.cc/sycloud)
 
 
-
-## 西红柿
-
-最低 18/月/80G 流量。全中转机场，免费试用，用好再买。
-
-官网：[点我进入](https://www.xihoogsi.com/#/register?code=0s886cnb)
-
-## 奇の旅
-
-最低 10/月/1024G SSR 机场（SSR 协议比较老，使用自己评估风险）中转有 1 倍率节点。
-
-官网：[点我进入](https://www.q1travel.cloud/aff.php?aff=5971)
-
-## Gsou Cloud
-
-最低 25/月/100G 流量
-
-官网：[点我进入](https://gsoust.xyz/auth/register?code=PPTx)
-
-## Wallless
-
-可免费试用一小时，月付最低 20/100G 流量
-
-官网：[点我进入](https://portal.wl-site4.com/#/register?code=9BiTGpfA)
-
-## Gatern
-
-最低 24/月/120G 流量
-
-官网：[点我进入](https://shuttle.gt-in.com/aff.php?aff=3273)
-
-## 极客云
-
-无免费节点，付费用户可以每天签到领取 1GB-5GB 流量 ，付费最低标准 19.9/月/100GB 流量
-
-官网：[点我进入](https://jike251.xyz/auth/register?code=y305)
 
 
 ## 奈飞账号
