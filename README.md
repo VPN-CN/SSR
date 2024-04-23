@@ -6,7 +6,8 @@
 
 我推荐的机场节点梯子都是自己亲身付费用过的（但部分只月付过未长期用）。不像别人一样只为赚返佣，连质量都不管不顾，更有甚者为了赚钱楞吹谁家好，最后还跑路了(~~**速蛙云的教训大家还记得吧**~~)
 
-<figure><img src="https://pic.imgdb.cn/item/65f456659f345e8d03b899d5.png" alt=""><figcaption></figcaption></figure>
+![10大机场](https://github.com/VPN-CN/SSR/assets/156046824/b182a22b-865a-459c-9f17-ed0464de96bc)
+
 
 
 
@@ -24,10 +25,10 @@
 
 **多数平台都支持全平台客户端。各平台客户端推荐：**
 
-* Windows 推荐使用 clash for window/netch
-* Mac 推荐使用 clashX/clash for windows 的 mac 版本/有钱的买 surge
-* IOS 推荐小火箭 Shadowrocket/quantumultX/有钱的买 surge
-* 安卓推荐 Surfboard、clashforAndroid(CFA) 、v2rayNG
+* Windows 推荐使用 [clash for window](https://iheikeji.com/bgfw/tools/clash-for-windows.html)/[Clash Verge](https://iheikeji.com/bgfw/tools/clash-verge.html)
+* Mac 推荐使用 clashX/[clash for window](https://iheikeji.com/bgfw/tools/clash-for-windows.html) 的 mac 版本/有钱的买 surge or [stash](https://iheikeji.com/bgfw/tools/stash%e6%95%99%e7%a8%8b.html)
+* IOS 推荐小火箭 [Shadowrocket](https://iheikeji.com/bgfw/tools/shadowrocket.html)/[quantumultX](https://iheikeji.com/bgfw/tools/quantumult-x.html)/有钱的买 surge or [stash](https://iheikeji.com/bgfw/tools/stash%e6%95%99%e7%a8%8b.html)
+* 安卓推荐 Surfboard、[clashforAndroid(CFA)](https://iheikeji.com/bgfw/tools/clash-for-android.html) 、v2rayNG
 * linux 推荐 shell clash 或者 clash for windows 的 linux 版本
 ***
 ## 机场相关娱乐服务推荐
