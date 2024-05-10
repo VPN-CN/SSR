@@ -125,11 +125,13 @@ BGP全中转+IPLC/IEPL 专线,无直连。
 
 官网：[点击注册](https://go.51tz.cc/surfshark)
 
-### 10.DuangCloud
+### 10.飞天猪机场
 
-最低 20/月-50GB 流量，运营 2 年+
+最低 0.19元/天（小猪套餐），运营 2 年+
 
-官网: [点击注册](https://go.51tz.cc/sycloud)
+解锁流媒体，晚高峰不限速不限客户端
+
+官网: [点击注册](https://go.51tz.cc/ftpig)
 
 ***
 
