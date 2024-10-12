@@ -45,9 +45,9 @@
 
 流媒体解锁，支持ChatGPT，大带宽不卡顿。
 
-**基础月付9.9每天只需0.33元，不满意的话24小时可退款**。
+**基础月付10每天只需0.33元，不满意的话24小时可退款**。
 
-官网: [点击注册](https://go.51tz.cc/jfcloud)
+官网: [点击注册](https://go.1vpn.cc/jife)
 
 ### 2.奈思云(NiceCloud)
 
@@ -57,7 +57,7 @@
 
 基础套餐 12/月，**年付赠送ChatGPT账号** 。
 
-官网：[点击注册](https://go.51tz.cc/nicecloud)
+官网：[点击注册](https://go.1vpn.cc/nisi)
 
 ### 3.速云梯(Suyunti)
 
@@ -67,17 +67,17 @@
 
 基础最低月付套餐：19元，支持退款。
 
-官网：[点击注册](https://go.51tz.cc/sycloud)
+官网：[点击注册](https://go.1vpn.cc/suyu)
 
-### 4.肥猫云 Fatcat-Cloud
+### 4.尔湾云 ewan-Cloud
 
-SS协议IEPL全专线，流媒体全解锁。
+SS/V2ray协议IEPL全专线，流媒体全解锁。
 
-不限速，**不限客户端数量**。
+无论包月还是包年，所有流量一次性到账，**没有每月流量清零的烦恼**。
 
-包月餐20/月起，年付肥猫小包更低 。
+包月餐12/月起.。
 
-官网：[点击注册](https://go.51tz.cc/fatcat)
+官网：[点击注册](https://go.1vpn.cc/ewan)
 
 ### 5.苏打云 Sodacloud
 
@@ -87,7 +87,7 @@ SS协议IEPL全专线，流媒体全解锁。
 
 包月 50/月起，**按流量计费永久有效**
 
-官网：[点击注册](https://go.51tz.cc/sodacloud)
+官网：[点击注册](https://go.1vpn.cc/soda)
 
 ### 6.Bitznet
 
@@ -97,7 +97,7 @@ SS协议IEPL全专线，流媒体全解锁。
 
 三月起购基础餐每月最低23/月。
 
-官网: [点击注册](https://cn.51tz.cc/bitznet)
+官网: [点击注册](https://go.1vpn.cc/jife)
 
 ### 7.蓝帆云(LfCloud)
 
@@ -123,7 +123,7 @@ BGP全中转+IPLC/IEPL 专线,无直连。
 
 匿名性强，大陆地区连接速度稍差点。
 
-官网：[点击注册](https://go.51tz.cc/surfshark)
+官网：[点击注册](https://go.1vpn.cc/surfshark)
 
 ### 10.三番云机场
 
@@ -133,7 +133,7 @@ BGP全中转+IPLC/IEPL 专线,无直连。
 
 在线客服及时响应。
 
-官网: [点击注册](https://go.51tz.cc/3fan)
+官网: [点击注册](https://go.1vpn.cc/3fan)
 
 ***
 
