@@ -30,24 +30,24 @@
 * IOS 推荐小火箭 [Shadowrocket](https://iheikeji.com/bgfw/tools/shadowrocket.html)/[quantumultX](https://iheikeji.com/bgfw/tools/quantumult-x.html)/有钱的买 surge or [stash](https://iheikeji.com/bgfw/tools/stash%e6%95%99%e7%a8%8b.html)
 * 安卓推荐 Surfboard、[clashforAndroid(CFA)](https://iheikeji.com/bgfw/tools/clash-for-android.html) 、v2rayNG
 * linux 推荐 shell clash 或者 clash for windows 的 linux 版本
-***
-## 机场相关娱乐服务推荐
-
-[🏝️ 奈飞账号等流媒体合租购买 🎥 奈飞账号合租购买指南](https://ihaoke.vip/metshop-netflix/)
 
 ***
 ## 十大VPN梯子精选推荐
-### 1.疾风云(JFCloud)-最具性价比机场推荐
+### 1.尔湾云(高性价比梯子)
 
-英国团队，稳定运营2年+。
+基础套餐11.9/月，流量一次性到账，不用担心月底用不完清零。
 
-隧道全中转+IPLC企业专线，稳定抗封锁。
+支持 ShadowsocksR 和 V2ray（vmess）加密协议，有公网隧道中转和 IPLC 专线节点。
 
-流媒体解锁，支持ChatGPT，大带宽不卡顿。
+专业团队运营，非 oneman 个人小机场。
 
-**基础月付10每天只需0.33元，不满意的话24小时可退款**。
+支持 Netflix、Disney+ 等流媒体及 ChatGPT AI 工具。
 
-官网: [点击注册](https://go.1vpn.cc/jife)
+支持 Clash、Shadowrocket、Stash、Surge、Quantumult X 等多种流行订阅软件。
+
+付款方式支持支付宝，不满意24h可退款。
+
+**官网: [点击注册](https://go.1vpn.cc/ewan)**
 
 ### 2.奈思云(NiceCloud)
 
@@ -69,15 +69,15 @@
 
 官网：[点击注册](https://go.1vpn.cc/suyu)
 
-### 4.尔湾云 ewan-Cloud
+### 4.旋风云 XXF-Cloud
 
-SS/V2ray协议IEPL全专线，流媒体全解锁。
+SS协议IEPL全专线，流媒体全解锁。
 
-无论包月还是包年，所有流量一次性到账，**没有每月流量清零的烦恼**。
+不限速，**不限客户端数量**。
 
-包月餐12/月起.。
+包月餐20/月起，年付轻量优惠包更低 。
 
-官网：[点击注册](https://go.1vpn.cc/ewan)
+官网：[点击注册](https://go.1vpn.cc/xxfeng)
 
 ### 5.苏打云 Sodacloud
 
@@ -89,35 +89,49 @@ SS/V2ray协议IEPL全专线，流媒体全解锁。
 
 官网：[点击注册](https://go.1vpn.cc/soda)
 
-### 6.Bitznet
+### 6.疾风云 JFcloud
+
+英国团队，稳定运营2年+。
+
+隧道全中转+IPLC企业专线，稳定抗封锁。
+
+流媒体解锁，支持ChatGPT，大带宽不卡顿。
+
+**基础月付12元，每天只需0.4元，不满意24小时可退款**。
+
+**官网: [点击注册](https://go.1vpn.cc/jife)**
+
+### 7.Cyber
 
 广东落地 IEPL 内网专线抗封锁。
 
 支持流媒体解锁，**不限设备数**。
 
-三月起购基础餐每月最低23/月。
+基础餐每月最低18/月，提供不限时按量计费流量包。
 
-官网: [点击注册](https://go.1vpn.cc/jife)
+官网: [点击注册](https://go.1vpn.cc/cybg)
 
-### 7.蓝帆云(LfCloud)
+### 8.3fanCloud
 
-🇸🇬 新加坡团队，5 年+运营。月付 10 元起,超高性价比。
+全节点采用中转加速，企业级IPLC高速专线。
+
+新加坡团队，5 年+运营。月付 15 元起,超高性价比。
 
 BGP全中转+IPLC/IEPL 专线,无直连。
 
 **签到领流量，支持不满意退款**。
 
-官网: [点击注册](https://go.51tz.cc/lanfan)
+官网: [点击注册](https://go.1vpn.cc/3fan)
 
-### 8.Wgetcloud
+### 9.Wgetcloud
 
 拥有美国、香港、日本、韩国、台湾、德国等地区节点。
 
 基础套餐 49/月。
 
-官网：[点击注册](https://go.51tz.cc/wget)
+官网：[点击注册](https://go.1vpn.cc/ewan)
 
-### 9.Sufshark VPN
+### 10.Sufshark VPN
 
 全球知名VPN，荷兰公司。
 
@@ -125,31 +139,6 @@ BGP全中转+IPLC/IEPL 专线,无直连。
 
 官网：[点击注册](https://go.1vpn.cc/surfshark)
 
-### 10.三番云机场
-
-全部节点均为IPLC企业高速专线，运营 2 年+
-
-解锁全平台流媒体，晚高峰不限速不限客户端
-
-在线客服及时响应。
-
-官网: [点击注册](https://go.1vpn.cc/3fan)
-
-***
-
-## 奈飞账号
-
-有奈飞账号需求的朋友可以看一下：推荐`购买全球号，2 个月及以上更加省心，价格上各家没差多少，多月账号节省沟通成本。`
-
-| 商家   | 规格      | 订购时长 | 付款方式   | 安全性    | 优惠码        | 选购                                  |
-| ---- | ------- | ---- | ------ | ------ | ---------- | ----------------------------------- |
-| 蜜糖商店 | 标准&全球地区 | 可月付  | 微信&支付宝 | 注册备案公司 | metshop666 | [去蜜糖商店](https://cn.51tz.cc/metshop) |
-
-* ✅ 标准号限制节点地区使用，一般只有冷门线路才能用。推荐全球号，省心之选
-* ✅ 月抛账号密码变动频繁，有更大的沟通成本 推荐 2 月起定
-* ✅ 域名备案正规企业，不怕商家跑路
-* ✅ 在线客服\&Tg 售后群处理问题及时
-* ✅ 专属优惠码 蜜糖商店 9 折
 
 ***
 
